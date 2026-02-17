@@ -1,4 +1,4 @@
-# ITClubVote — PKI-Powered Electronic Voting System
+# CertVote — PKI-Powered Electronic Voting System
 
 > A complete Public Key Infrastructure (PKI) demonstration system built in Python.
 > Implements digital signatures, hybrid encryption, certificate management, revocation,
