@@ -1,0 +1,6 @@
+# ITClubVote — Python Dependencies
+# Install: pip install -r requirements.txt
+
+cryptography>=42.0.0        # RSA, AES-GCM, X.509, PKCS#12, PKCS#8
+mysql-connector-python>=8.4.0  # MySQL database driver
+pytest>=8.0.0               # Unit test runner (optional, for CI)
