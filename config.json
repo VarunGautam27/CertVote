@@ -1,0 +1,23 @@
+{
+    "election_id": "ITC_ELEC_2026",
+    "server_salt": "9f4a2b8c1d3e6f7a0b5c9d2e4f6a8b3c",
+    "candidates_file": "data/candidates.csv",
+    "members_file": "data/it_club_members.csv",
+    "db": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "database": "itclub_vote"
+    },
+    "ca": {
+        "country": "NP",
+        "state": "Bagmati",
+        "locality": "Kathmandu",
+        "organization": "IT Club College",
+        "common_name": "IT Club CA"
+    },
+    "key_bits": 2048,
+    "cert_validity_days": 30,
+    "admin_password": "admin@ITC2026"
+}
